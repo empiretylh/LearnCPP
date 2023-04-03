@@ -13,7 +13,7 @@ int main()
     } person;
 
 
-    person.name = "Thura Lin Htut";
+    person.name = "Thura Lin Htut is the best.";
     person.age = 18;
     person.height = 6;
 
